@@ -1,0 +1,31 @@
+<html>
+<head>
+<title> Design HTML Blog </title>
+</head>
+
+<body>
+
+<hr/>
+
+<nav>
+   <center>
+       <a href="https://www.google.co.in/">Home</a> &nbsp;
+       <a href="https://www.google.co.in/about/">About</a> &nbsp;
+       <a href="https://www.google.com/gmail/">Gmail</a> &nbsp;
+       <a href="https://maps.google.co.in/">Maps</a> &nbsp;
+       <a href="https://news.google.co.in/">News</a>
+</nav>
+
+<hr/>
+
+<div><center>
+  <img src="HTML5.png" alt="Html5 Image"></img>
+  <img src="HTML5.png" alt="Html5 Image"></img>
+  <img src="HTML5.png" alt="Html5 Image"></img>
+</div><br/>
+
+<div> The Google story begins in 1995 at Stanford University founded by Larry Page and Sergey Brin. Larry Page was considering Stanford for grad school and Sergey Brin, a student there, was assigned to show him around. By some <center>accounts, they disagreed about nearly everything during that first meeting, but by the following year they struck a partnership. </div>
+<p> <center>Working from their dorm rooms, they built a search engine that used links to determine the importance of individual pages on the World Wide Web. They called this search engine Backrub. </p>
+
+</body>
+</html>
